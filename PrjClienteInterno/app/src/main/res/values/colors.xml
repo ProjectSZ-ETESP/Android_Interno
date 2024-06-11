@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#9163CB</color>
+    <color name="buttonPurple">#AE60D3</color>
+    <color name="buttonPurpleBlack">#59306d</color>
+    <color name="pink">#DFA3F3</color>
+    <color name="D099E3">#D099E3</color>
+    <color name="verificarPurple">#812EA9</color>
+    <color name="azul">#3b5599</color>
+
+</resources>
